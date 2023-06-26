@@ -29,6 +29,7 @@ Plug 'peitalin/vim-jsx-typescript'
 Plug 'styled-components/vim-styled-components', { 'branch': 'main' }
 Plug 'yuezk/vim-js'
 Plug 'maxmellon/vim-jsx-pretty'
+Plug 'ctrlpvim/ctrlp.vim'
 
 call plug#end()
 "colorscheme OceanicNext
